@@ -1,0 +1,4 @@
+Format name,Starting value for format,Ending value for format,Format value label
+ALC_DRUG,.,.,NA before 2019
+ALC_DRUG,0,0,No/Unk
+ALC_DRUG,1,1,Yes

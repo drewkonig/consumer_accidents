@@ -1,0 +1,4 @@
+Format name,Starting value for format,Ending value for format,Format value label
+GENDER,0,0,UNKNOWN
+GENDER,1,1,MALE
+GENDER,2,2,FEMALE

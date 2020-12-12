@@ -1,0 +1,6 @@
+Format name,Starting value for format,Ending value for format,Format value label
+FIRE,0,0,NO/?
+FIRE,1,1,FD
+FIRE,2,2,NO FD
+FIRE,3,3,? FD
+FIRE,4,4,MV
