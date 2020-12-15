@@ -1,0 +1,11 @@
+Format name,Starting value for format,Ending value for format,Format value label
+LOC,0,0,UNK
+LOC,1,1,HOME
+LOC,2,2,FARM
+LOC,3,3,APART.
+LOC,4,4,STREET
+LOC,5,5,PUBLIC
+LOC,6,6,MOBILE
+LOC,7,7,INDST.
+LOC,8,8,SCHOOL
+LOC,9,9,SPORTS
